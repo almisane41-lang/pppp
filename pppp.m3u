@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-
 #EXTINF:-1 tvg-id="" tvg-name="IQ| Alrabiaa sport 1" tvg-logo="" group-title="AR | IRAQ | العراق",IQ| Alrabiaa sport 1
 http://be2.it.com:80/pppp/pppp/481246
 #EXTINF:-1 tvg-id="" tvg-name="IQ| Alrabiaa sport 2" tvg-logo="" group-title="AR | IRAQ | العراق",IQ| Alrabiaa sport 2
@@ -185,8 +184,6 @@ http://be2.it.com:80/pppp/pppp/481335
 http://be2.it.com:80/pppp/pppp/481336
 #EXTINF:-1 tvg-id="" tvg-name="Iq| Sawt Alitra TV ✦" tvg-logo="" group-title="AR | IRAQ | العراق",Iq| Sawt Alitra TV ✦
 http://be2.it.com:80/pppp/pppp/481337
-#EXTINF:-1 tvg-id="" tvg-name="Ir: Gem Documentary HD" tvg-logo="" group-title="IR | IRAN ➣ ايــران",Ir: Gem Documentary HD
-http://be2.it.com:80/pppp/pppp/481338
 
 
 
